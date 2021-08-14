@@ -27,7 +27,7 @@ Grubunuzun sesli sohbetinde müzik çalmanıza izin 😉
                         "Grup 💬", url="https://t.me/zmonios"
                     ),
                     InlineKeyboardButton(
-                        "Kanal 📣", url="https://t.me/zmoniosahip"
+                        "Kanal 📣", url="https://t.me/zmoniosmusic"
                     )
                 ]
             ]
